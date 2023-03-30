@@ -1,0 +1,2 @@
+# University-Information-Management-System
+基于MySQL和Python实现的一个数据库信息管理系统
